@@ -1,14 +1,24 @@
 body {
   background:#000000;
 }
+
 p {
   color:lawngreen;
 }
+
 h1 {
   font-weight: bold;
   color: lawngreen;
 }
+
 a {color: #1f8309;
 }
 
-img {margin:
+img.icon 
+
+{}
+
+h.title3 
+
+{color:greenyellow;
+  text-align: center}
